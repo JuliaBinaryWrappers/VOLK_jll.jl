@@ -1,0 +1,126 @@
+[[VOLK]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "07678fe9697539c63a94f67556987f329f646e63"
+libc = "glibc"
+os = "linux"
+
+    [[VOLK.download]]
+    sha256 = "277580544a2ad680303ad6caae8490c5d4ab0cec9314413084c8669458b25d00"
+    url = "https://github.com/JuliaBinaryWrappers/VOLK_jll.jl/releases/download/VOLK-v2.5.0+0/VOLK.v2.5.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[VOLK]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e4940608b848dd0d62b7727a2eb366e1617a8d1c"
+libc = "musl"
+os = "linux"
+
+    [[VOLK.download]]
+    sha256 = "08ccb21a9616d4a1bd53a2821b994330a170561250ba014a463074c6d9df7eb3"
+    url = "https://github.com/JuliaBinaryWrappers/VOLK_jll.jl/releases/download/VOLK-v2.5.0+0/VOLK.v2.5.0.aarch64-linux-musl-cxx11.tar.gz"
+[[VOLK]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "03cc8e557483ce1a858f5b4bbc38cb6c74e68379"
+libc = "glibc"
+os = "linux"
+
+    [[VOLK.download]]
+    sha256 = "02727e16d61ff7578364de3c3fb9ecea55a438a6ffd9833e52b8434fcb0ebf5f"
+    url = "https://github.com/JuliaBinaryWrappers/VOLK_jll.jl/releases/download/VOLK-v2.5.0+0/VOLK.v2.5.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[VOLK]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2666cd1b38b1880f69ea06d29f6d2b8777d064c4"
+libc = "musl"
+os = "linux"
+
+    [[VOLK.download]]
+    sha256 = "11b242fb56b03959fb9af0da0a197961b0112d62327902675785a031e7a8e6c2"
+    url = "https://github.com/JuliaBinaryWrappers/VOLK_jll.jl/releases/download/VOLK-v2.5.0+0/VOLK.v2.5.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[VOLK]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5eb13f0709d1d5491a11ff4e95a50b0bd9855f35"
+libc = "glibc"
+os = "linux"
+
+    [[VOLK.download]]
+    sha256 = "ce8a2c6c42b8905999c50d09cc3a189856454cb66e017e117f68f3feb5f236ff"
+    url = "https://github.com/JuliaBinaryWrappers/VOLK_jll.jl/releases/download/VOLK-v2.5.0+0/VOLK.v2.5.0.i686-linux-gnu-cxx11.tar.gz"
+[[VOLK]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5869639bff54b0a423f517a888fb9377a0ff6429"
+libc = "musl"
+os = "linux"
+
+    [[VOLK.download]]
+    sha256 = "c85d19f76a27585e4c25eddfaf9ba5c3bb575e5b4082d32a4dfd9407db8381f0"
+    url = "https://github.com/JuliaBinaryWrappers/VOLK_jll.jl/releases/download/VOLK-v2.5.0+0/VOLK.v2.5.0.i686-linux-musl-cxx11.tar.gz"
+[[VOLK]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2dac8726ef1195aec4c074b5d0a56271709fc58f"
+os = "windows"
+
+    [[VOLK.download]]
+    sha256 = "f0b971c5333f93538f24319bd9247e80096282f12a6a9f92acd37eb7c9d1f5c0"
+    url = "https://github.com/JuliaBinaryWrappers/VOLK_jll.jl/releases/download/VOLK-v2.5.0+0/VOLK.v2.5.0.i686-w64-mingw32-cxx11.tar.gz"
+[[VOLK]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "47627a49443e0707175935e423401594b45caa01"
+libc = "glibc"
+os = "linux"
+
+    [[VOLK.download]]
+    sha256 = "f3914af5c469994230123414714f8f513b066cadd7673370784536ea3007b371"
+    url = "https://github.com/JuliaBinaryWrappers/VOLK_jll.jl/releases/download/VOLK-v2.5.0+0/VOLK.v2.5.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[VOLK]]
+arch = "x86_64"
+git-tree-sha1 = "07586a8360eca5a966e68345f2b033c69c68c1ad"
+os = "macos"
+
+    [[VOLK.download]]
+    sha256 = "b8d5238aa114ac040c5ff0a311b956e4a8f22e1f1ab5f81c524c32653afa2d9c"
+    url = "https://github.com/JuliaBinaryWrappers/VOLK_jll.jl/releases/download/VOLK-v2.5.0+0/VOLK.v2.5.0.x86_64-apple-darwin.tar.gz"
+[[VOLK]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "68bfa209abff08181f1fdc8b6305ed3fd45a2bf4"
+libc = "glibc"
+os = "linux"
+
+    [[VOLK.download]]
+    sha256 = "dd35876d913629b134a098d98ee3bc4a9b6f61547dfc16d130c0e30d68cc0f91"
+    url = "https://github.com/JuliaBinaryWrappers/VOLK_jll.jl/releases/download/VOLK-v2.5.0+0/VOLK.v2.5.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[VOLK]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "042feaca66a7cc998f1830dde98bf84cad917a6f"
+libc = "musl"
+os = "linux"
+
+    [[VOLK.download]]
+    sha256 = "83ccd3e95e6bc4b94f15a077e5282349010e6caa79f102c6ed3964e5968b6401"
+    url = "https://github.com/JuliaBinaryWrappers/VOLK_jll.jl/releases/download/VOLK-v2.5.0+0/VOLK.v2.5.0.x86_64-linux-musl-cxx11.tar.gz"
+[[VOLK]]
+arch = "x86_64"
+git-tree-sha1 = "64b1353175f0781e8d8d4f1ca1cffaee9403de7b"
+os = "freebsd"
+
+    [[VOLK.download]]
+    sha256 = "348b592326cac7fc68d7abbd2a3c7d05db22abbf2754a8f03eaba169bb071d91"
+    url = "https://github.com/JuliaBinaryWrappers/VOLK_jll.jl/releases/download/VOLK-v2.5.0+0/VOLK.v2.5.0.x86_64-unknown-freebsd.tar.gz"
+[[VOLK]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "df30643d428e206ace5e5fb555f2c3102808ebd3"
+os = "windows"
+
+    [[VOLK.download]]
+    sha256 = "6610f92ad64e7315a5824ac028feb172a16a94385df204c6efe89fa2263cada6"
+    url = "https://github.com/JuliaBinaryWrappers/VOLK_jll.jl/releases/download/VOLK-v2.5.0+0/VOLK.v2.5.0.x86_64-w64-mingw32-cxx11.tar.gz"
