@@ -1,6 +1,6 @@
 name = "VOLK_jll"
 uuid = "13737630-5ab7-50a7-b423-42a4a7ec78b3"
-version = "2.5.0+0"
+version = "2.5.0+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -12,3 +12,4 @@ boost_jll = "28df3c45-c428-5900-9ff8-a3135698ca75"
 [compat]
 JLLWrappers = "1.2.0"
 julia = "1.6"
+boost_jll = "=1.76.0"
